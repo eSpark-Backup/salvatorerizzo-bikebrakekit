@@ -10,3 +10,5 @@ The product is a Motorcycle Brake Light kit that is copied from a similar produc
 
 ![image](https://github.com/eSpark-Consultants/salvatorerizzo-bikebrakekit/assets/76909080/1b1d31fe-3f75-4dba-863a-02d7a0c2c1a4)
 
+## Competitor Product Image
+![image](https://github.com/eSpark-Consultants/salvatorerizzo-bikebrakekit/assets/76909080/64a421a8-27a2-410c-aa5c-4d13cab22604)
