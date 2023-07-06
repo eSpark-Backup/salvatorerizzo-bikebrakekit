@@ -8,6 +8,11 @@ The product is a Motorcycle Brake Light kit that is copied from a similar produc
 - The mounting hole info and the board dimensions will be shared later by the client for the PCBA.
 - A reference image of the prototype board is attached for an idea of how to design the schematic and the PCB
 
+### PCB Placement Requirements
+![Board quick](https://github.com/eSpark-Consultants/salvatorerizzo-bikebrakekit/assets/76909080/16fe142b-e9ac-4071-a5f5-17469535f2bf)
+
+
+## Client's previous board
 ![image](https://github.com/eSpark-Consultants/salvatorerizzo-bikebrakekit/assets/76909080/1b1d31fe-3f75-4dba-863a-02d7a0c2c1a4)
 
 ## Competitor Product Image
