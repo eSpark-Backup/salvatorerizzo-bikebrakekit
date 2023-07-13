@@ -1,0 +1,35 @@
+Altium Designer Pick and Place Locations
+C:\Users\XPENDER\Documents\GitHub\salvatorerizzo-bikebrakekit\Design Files\Salvatore Brake Kit v1.0\Project Outputs for Salvatore Brake Kit v1.0\Pick Place for Brake_kit_PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       13/07/23
+Time:       19:25
+Revision:   40f4d56e5c7c8e6462a8ace7c9d4798ec78be172
+Variant:    No variations
+Units used: mm
+
+Designator Center-X(mm) Center-Y(mm) Layer    Rotation Ref-X(mm) Ref-Y(mm) Pad-X(mm) Pad-Y(mm) 
+D1         10,4940mm    49,2313mm    TopLayer 0        10,4940mm 49,2313mm 0,5440mm  49,2313mm 
+D2         10,4940mm    43,4545mm    TopLayer 0        10,4940mm 43,4545mm 0,5440mm  43,4545mm 
+J1         30,7238mm    55,6719mm    TopLayer 0        30,7238mm 55,6719mm 30,7238mm 55,6719mm 
+J2         6,9738mm     -8,0259mm    TopLayer 0        6,9738mm  -8,0259mm 6,9738mm  -8,0259mm 
+J3         -2,2762mm    55,7027mm    TopLayer 0        -2,2762mm 55,7027mm -2,2762mm 55,7027mm 
+J4         23,2238mm    55,8046mm    TopLayer 0        23,2238mm 55,8046mm 23,2238mm 55,8046mm 
+J5         10,4738mm    -8,0259mm    TopLayer 0        10,4738mm -8,0259mm 10,4738mm -8,0259mm 
+J6         27,2238mm    55,6921mm    TopLayer 0        27,2238mm 55,6921mm 27,2238mm 55,6921mm 
+J7         15,7238mm    55,6859mm    TopLayer 0        15,7238mm 55,6859mm 15,7238mm 55,6859mm 
+J8         13,9738mm    -8,0259mm    TopLayer 0        13,9738mm -8,0259mm 13,9738mm -8,0259mm 
+J9         19,7238mm    55,6991mm    TopLayer 0        19,7238mm 55,6991mm 19,7238mm 55,6991mm 
+J10        17,4738mm    -8,0259mm    TopLayer 0        17,4738mm -8,0259mm 17,4738mm -8,0259mm 
+J11        20,9738mm    -8,0259mm    TopLayer 0        20,9738mm -8,0259mm 20,9738mm -8,0259mm 
+J12        5,2238mm     55,8046mm    TopLayer 0        5,2238mm  55,8046mm 5,2238mm  55,8046mm 
+J13        8,7238mm     55,8046mm    TopLayer 0        8,7238mm  55,8046mm 8,7238mm  55,8046mm 
+J14        12,2238mm    55,6807mm    TopLayer 0        12,2238mm 55,6807mm 12,2238mm 55,6807mm 
+J15        1,2238mm     55,8046mm    TopLayer 0        1,2238mm  55,8046mm 1,2238mm  55,8046mm 
+R1         18,4103mm    25,5602mm    TopLayer 90       18,0039mm 24,7855mm 18,4103mm 12,1871mm 
+R2         27,3088mm    25,5602mm    TopLayer 90       26,9024mm 24,7855mm 27,3088mm 12,1871mm 
+R3         0,6134mm     25,5602mm    TopLayer 90       0,2070mm  24,7855mm 0,6134mm  12,1871mm 
+R4         9,5118mm     25,5602mm    TopLayer 90       9,1054mm  24,7855mm 9,5118mm  12,1871mm 
+R5         13,9738mm    6,8001mm     TopLayer 180      13,9738mm 6,8001mm  27,3469mm 6,8001mm  
